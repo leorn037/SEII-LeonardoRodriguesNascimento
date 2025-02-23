@@ -1,0 +1,6 @@
+Em C#, os Tipos de Dados Abstratos (Abstract Data Types – ADTs) são estruturas que definem um conjunto de operações por meio de métodos e propriedades, sem revelar como os dados são manipulados internamente. Eles fornecem uma interface para interagir com os dados enquanto ocultam os detalhes de implementação. Alguns exemplos incluem:
+
+Listas: Conjuntos ordenados de elementos.
+Pilhas (Stacks): Estruturas que seguem o princípio LIFO (Último a Entrar, Primeiro a Sair).
+Filas (Queues): Estruturas baseadas no princípio FIFO (Primeiro a Entrar, Primeiro a Sair).
+Dicionários: Coleções organizadas em pares chave-valor, permitindo acesso rápido aos elementos.
