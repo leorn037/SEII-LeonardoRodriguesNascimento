@@ -1,0 +1,15 @@
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/11-Polimorfismo/bin/Debug/net8.0/11-Polimorfismo
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/11-Polimorfismo/bin/Debug/net8.0/11-Polimorfismo.deps.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/11-Polimorfismo/bin/Debug/net8.0/11-Polimorfismo.runtimeconfig.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/11-Polimorfismo/bin/Debug/net8.0/11-Polimorfismo.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/11-Polimorfismo/bin/Debug/net8.0/11-Polimorfismo.pdb
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/11-Polimorfismo/obj/Debug/net8.0/11-Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/11-Polimorfismo/obj/Debug/net8.0/11-Polimorfismo.AssemblyInfoInputs.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/11-Polimorfismo/obj/Debug/net8.0/11-Polimorfismo.AssemblyInfo.cs
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/11-Polimorfismo/obj/Debug/net8.0/11-Polimorfismo.csproj.CoreCompileInputs.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/11-Polimorfismo/obj/Debug/net8.0/11-Polimorfismo.sourcelink.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/11-Polimorfismo/obj/Debug/net8.0/11-Polimorfismo.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/11-Polimorfismo/obj/Debug/net8.0/refint/11-Polimorfismo.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/11-Polimorfismo/obj/Debug/net8.0/11-Polimorfismo.pdb
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/11-Polimorfismo/obj/Debug/net8.0/11-Polimorfismo.genruntimeconfig.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/11-Polimorfismo/obj/Debug/net8.0/ref/11-Polimorfismo.dll

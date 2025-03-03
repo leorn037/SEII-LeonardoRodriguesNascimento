@@ -1,0 +1,15 @@
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/06-Encapsulamento/bin/Debug/net8.0/06-Encapsulamento
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/06-Encapsulamento/bin/Debug/net8.0/06-Encapsulamento.deps.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/06-Encapsulamento/bin/Debug/net8.0/06-Encapsulamento.runtimeconfig.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/06-Encapsulamento/bin/Debug/net8.0/06-Encapsulamento.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/06-Encapsulamento/bin/Debug/net8.0/06-Encapsulamento.pdb
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/06-Encapsulamento/obj/Debug/net8.0/06-Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/06-Encapsulamento/obj/Debug/net8.0/06-Encapsulamento.AssemblyInfoInputs.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/06-Encapsulamento/obj/Debug/net8.0/06-Encapsulamento.AssemblyInfo.cs
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/06-Encapsulamento/obj/Debug/net8.0/06-Encapsulamento.csproj.CoreCompileInputs.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/06-Encapsulamento/obj/Debug/net8.0/06-Encapsulamento.sourcelink.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/06-Encapsulamento/obj/Debug/net8.0/06-Encapsulamento.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/06-Encapsulamento/obj/Debug/net8.0/refint/06-Encapsulamento.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/06-Encapsulamento/obj/Debug/net8.0/06-Encapsulamento.pdb
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/06-Encapsulamento/obj/Debug/net8.0/06-Encapsulamento.genruntimeconfig.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/06-Encapsulamento/obj/Debug/net8.0/ref/06-Encapsulamento.dll

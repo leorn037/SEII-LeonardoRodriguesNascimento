@@ -1,0 +1,15 @@
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/08-GetSet/bin/Debug/net8.0/08-GetSet
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/08-GetSet/bin/Debug/net8.0/08-GetSet.deps.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/08-GetSet/bin/Debug/net8.0/08-GetSet.runtimeconfig.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/08-GetSet/bin/Debug/net8.0/08-GetSet.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/08-GetSet/bin/Debug/net8.0/08-GetSet.pdb
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/08-GetSet/obj/Debug/net8.0/08-GetSet.GeneratedMSBuildEditorConfig.editorconfig
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/08-GetSet/obj/Debug/net8.0/08-GetSet.AssemblyInfoInputs.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/08-GetSet/obj/Debug/net8.0/08-GetSet.AssemblyInfo.cs
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/08-GetSet/obj/Debug/net8.0/08-GetSet.csproj.CoreCompileInputs.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/08-GetSet/obj/Debug/net8.0/08-GetSet.sourcelink.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/08-GetSet/obj/Debug/net8.0/08-GetSet.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/08-GetSet/obj/Debug/net8.0/refint/08-GetSet.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/08-GetSet/obj/Debug/net8.0/08-GetSet.pdb
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/08-GetSet/obj/Debug/net8.0/08-GetSet.genruntimeconfig.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/08-GetSet/obj/Debug/net8.0/ref/08-GetSet.dll

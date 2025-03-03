@@ -1,0 +1,15 @@
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/13-Abstracao/bin/Debug/net8.0/13-Abstracao
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/13-Abstracao/bin/Debug/net8.0/13-Abstracao.deps.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/13-Abstracao/bin/Debug/net8.0/13-Abstracao.runtimeconfig.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/13-Abstracao/bin/Debug/net8.0/13-Abstracao.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/13-Abstracao/bin/Debug/net8.0/13-Abstracao.pdb
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/13-Abstracao/obj/Debug/net8.0/13-Abstracao.GeneratedMSBuildEditorConfig.editorconfig
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/13-Abstracao/obj/Debug/net8.0/13-Abstracao.AssemblyInfoInputs.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/13-Abstracao/obj/Debug/net8.0/13-Abstracao.AssemblyInfo.cs
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/13-Abstracao/obj/Debug/net8.0/13-Abstracao.csproj.CoreCompileInputs.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/13-Abstracao/obj/Debug/net8.0/13-Abstracao.sourcelink.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/13-Abstracao/obj/Debug/net8.0/13-Abstracao.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/13-Abstracao/obj/Debug/net8.0/refint/13-Abstracao.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/13-Abstracao/obj/Debug/net8.0/13-Abstracao.pdb
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/13-Abstracao/obj/Debug/net8.0/13-Abstracao.genruntimeconfig.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/13-Abstracao/obj/Debug/net8.0/ref/13-Abstracao.dll

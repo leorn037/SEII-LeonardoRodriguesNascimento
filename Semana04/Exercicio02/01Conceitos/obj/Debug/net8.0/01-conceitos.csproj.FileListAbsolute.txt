@@ -1,0 +1,15 @@
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/01-conceitos/bin/Debug/net8.0/01-conceitos
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/01-conceitos/bin/Debug/net8.0/01-conceitos.deps.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/01-conceitos/bin/Debug/net8.0/01-conceitos.runtimeconfig.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/01-conceitos/bin/Debug/net8.0/01-conceitos.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/01-conceitos/bin/Debug/net8.0/01-conceitos.pdb
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/01-conceitos/obj/Debug/net8.0/01-conceitos.GeneratedMSBuildEditorConfig.editorconfig
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/01-conceitos/obj/Debug/net8.0/01-conceitos.AssemblyInfoInputs.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/01-conceitos/obj/Debug/net8.0/01-conceitos.AssemblyInfo.cs
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/01-conceitos/obj/Debug/net8.0/01-conceitos.csproj.CoreCompileInputs.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/01-conceitos/obj/Debug/net8.0/01-conceitos.sourcelink.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/01-conceitos/obj/Debug/net8.0/01-conceitos.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/01-conceitos/obj/Debug/net8.0/refint/01-conceitos.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/01-conceitos/obj/Debug/net8.0/01-conceitos.pdb
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/01-conceitos/obj/Debug/net8.0/01-conceitos.genruntimeconfig.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/01-conceitos/obj/Debug/net8.0/ref/01-conceitos.dll

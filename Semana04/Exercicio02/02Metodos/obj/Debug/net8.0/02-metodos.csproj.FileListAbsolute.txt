@@ -1,0 +1,15 @@
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/02-metodos/obj/Debug/net8.0/02-metodos.GeneratedMSBuildEditorConfig.editorconfig
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/02-metodos/obj/Debug/net8.0/02-metodos.AssemblyInfoInputs.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/02-metodos/obj/Debug/net8.0/02-metodos.AssemblyInfo.cs
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/02-metodos/obj/Debug/net8.0/02-metodos.csproj.CoreCompileInputs.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/02-metodos/obj/Debug/net8.0/02-metodos.sourcelink.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/02-metodos/bin/Debug/net8.0/02-metodos
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/02-metodos/bin/Debug/net8.0/02-metodos.deps.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/02-metodos/bin/Debug/net8.0/02-metodos.runtimeconfig.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/02-metodos/bin/Debug/net8.0/02-metodos.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/02-metodos/bin/Debug/net8.0/02-metodos.pdb
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/02-metodos/obj/Debug/net8.0/02-metodos.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/02-metodos/obj/Debug/net8.0/refint/02-metodos.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/02-metodos/obj/Debug/net8.0/02-metodos.pdb
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/02-metodos/obj/Debug/net8.0/02-metodos.genruntimeconfig.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/02-metodos/obj/Debug/net8.0/ref/02-metodos.dll

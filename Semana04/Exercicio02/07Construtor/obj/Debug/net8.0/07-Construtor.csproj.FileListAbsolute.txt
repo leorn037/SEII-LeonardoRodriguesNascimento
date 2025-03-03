@@ -1,0 +1,15 @@
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/07-Construtor/bin/Debug/net8.0/07-Construtor
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/07-Construtor/bin/Debug/net8.0/07-Construtor.deps.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/07-Construtor/bin/Debug/net8.0/07-Construtor.runtimeconfig.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/07-Construtor/bin/Debug/net8.0/07-Construtor.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/07-Construtor/bin/Debug/net8.0/07-Construtor.pdb
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/07-Construtor/obj/Debug/net8.0/07-Construtor.GeneratedMSBuildEditorConfig.editorconfig
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/07-Construtor/obj/Debug/net8.0/07-Construtor.AssemblyInfoInputs.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/07-Construtor/obj/Debug/net8.0/07-Construtor.AssemblyInfo.cs
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/07-Construtor/obj/Debug/net8.0/07-Construtor.csproj.CoreCompileInputs.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/07-Construtor/obj/Debug/net8.0/07-Construtor.sourcelink.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/07-Construtor/obj/Debug/net8.0/07-Construtor.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/07-Construtor/obj/Debug/net8.0/refint/07-Construtor.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/07-Construtor/obj/Debug/net8.0/07-Construtor.pdb
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/07-Construtor/obj/Debug/net8.0/07-Construtor.genruntimeconfig.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/07-Construtor/obj/Debug/net8.0/ref/07-Construtor.dll

@@ -1,0 +1,15 @@
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/04-ExercicioIMC/bin/Debug/net8.0/04-ExercicioIMC
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/04-ExercicioIMC/bin/Debug/net8.0/04-ExercicioIMC.deps.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/04-ExercicioIMC/bin/Debug/net8.0/04-ExercicioIMC.runtimeconfig.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/04-ExercicioIMC/bin/Debug/net8.0/04-ExercicioIMC.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/04-ExercicioIMC/bin/Debug/net8.0/04-ExercicioIMC.pdb
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/04-ExercicioIMC/obj/Debug/net8.0/04-ExercicioIMC.GeneratedMSBuildEditorConfig.editorconfig
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/04-ExercicioIMC/obj/Debug/net8.0/04-ExercicioIMC.AssemblyInfoInputs.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/04-ExercicioIMC/obj/Debug/net8.0/04-ExercicioIMC.AssemblyInfo.cs
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/04-ExercicioIMC/obj/Debug/net8.0/04-ExercicioIMC.csproj.CoreCompileInputs.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/04-ExercicioIMC/obj/Debug/net8.0/04-ExercicioIMC.sourcelink.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/04-ExercicioIMC/obj/Debug/net8.0/04-ExercicioIMC.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/04-ExercicioIMC/obj/Debug/net8.0/refint/04-ExercicioIMC.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/04-ExercicioIMC/obj/Debug/net8.0/04-ExercicioIMC.pdb
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/04-ExercicioIMC/obj/Debug/net8.0/04-ExercicioIMC.genruntimeconfig.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/04-ExercicioIMC/obj/Debug/net8.0/ref/04-ExercicioIMC.dll

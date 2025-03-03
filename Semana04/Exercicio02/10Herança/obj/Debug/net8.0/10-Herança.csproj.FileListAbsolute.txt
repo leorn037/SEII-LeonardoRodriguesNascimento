@@ -1,0 +1,15 @@
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/10-Herança/bin/Debug/net8.0/10-Herança
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/10-Herança/bin/Debug/net8.0/10-Herança.deps.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/10-Herança/bin/Debug/net8.0/10-Herança.runtimeconfig.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/10-Herança/bin/Debug/net8.0/10-Herança.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/10-Herança/bin/Debug/net8.0/10-Herança.pdb
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/10-Herança/obj/Debug/net8.0/10-Herança.GeneratedMSBuildEditorConfig.editorconfig
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/10-Herança/obj/Debug/net8.0/10-Herança.AssemblyInfoInputs.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/10-Herança/obj/Debug/net8.0/10-Herança.AssemblyInfo.cs
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/10-Herança/obj/Debug/net8.0/10-Herança.csproj.CoreCompileInputs.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/10-Herança/obj/Debug/net8.0/10-Herança.sourcelink.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/10-Herança/obj/Debug/net8.0/10-Herança.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/10-Herança/obj/Debug/net8.0/refint/10-Herança.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/10-Herança/obj/Debug/net8.0/10-Herança.pdb
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/10-Herança/obj/Debug/net8.0/10-Herança.genruntimeconfig.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 4/Exercicio02/10-Herança/obj/Debug/net8.0/ref/10-Herança.dll
