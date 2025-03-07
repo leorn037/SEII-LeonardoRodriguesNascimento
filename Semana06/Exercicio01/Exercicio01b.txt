@@ -1,0 +1,13 @@
+Limite de bytes por pacotes TCP e UDP
+- UDP: O tamanho máximo teórico de um datagrama UDP é 65.535 bytes, mas, na prática, não excede 1.500 bytes para evitar fragmentação.
+- TCP: O TCP não tem um tamanho fixo de pacote, pois transmite um fluxo contínuo de bytes. O segmento máximo depende do MTU da rede, geralmente 1.500 bytes, com um payload máximo de 1.460 bytes.
+
+Transmissão de Arquivos Grandes via Internet
+- TCP: Fragmenta o arquivo em segmentos, enviando-os sequencialmente com confirmação de recebimento. Se houver perda, retransmite automaticamente.
+- UDP: Divide o arquivo em pacotes menores, sem garantia de entrega ou ordem correta, sendo mais usado para streaming e transmissões rápidas.
+
+Diferença entre TCP e UDP na Transmissão de Arquivos Grandes
+- TCP: Garante entrega completa e ordenada, possui controle de congestionamento, mas pode ser mais lento.
+- UDP: Mais rápido, porém sem garantia de entrega ou ordem, ideal para aplicações em tempo real.
+
+Para arquivos grandes, o TCP é preferido pela confiabilidade, enquanto o UDP é usado onde a velocidade é mais importante que a precisão.
