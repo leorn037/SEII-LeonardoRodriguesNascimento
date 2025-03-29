@@ -1,0 +1,52 @@
+1. O que é Design Pattern?
+Design Patterns (Padrões de Projeto) são soluções reutilizáveis para problemas comuns no desenvolvimento de software. Eles representam melhores práticas estruturadas para resolver desafios de design de código, promovendo flexibilidade, manutenibilidade e reutilização.
+
+2. Relação com POO (Programação Orientada a Objetos)
+Os Design Patterns estão fortemente associados à POO, pois utilizam conceitos como herança, encapsulamento, polimorfismo e abstração para criar estruturas flexíveis e organizadas. Eles ajudam a aplicar os princípios SOLID e outros conceitos avançados de POO de maneira eficiente.
+
+3. Refatoração de Código
+Refatoração é o processo de melhorar a estrutura interna do código sem alterar seu comportamento externo, tornando-o mais legível, eficiente e fácil de manter.
+
+Uso de Design Patterns na Refatoração:
+
+Padrões como Strategy, Factory Method e Decorator podem substituir implementações complexas ou redundantes.
+
+Facilitam a extensibilidade e reduzem o acoplamento.
+
+Uso na Construção Inicial:
+
+Aplicar padrões desde o início (ex: MVC, Singleton) ajuda a evitar problemas de arquitetura.
+
+4. UML (Unified Modeling Language)
+UML é uma linguagem visual para modelagem de sistemas, usada para representar diagramaticamente a estrutura, comportamento e interações de um sistema.
+
+Três Grupos Principais de Diagramas UML:
+
+Diagramas Estruturais (ex: Classes, Componentes).
+
+Diagramas Comportamentais (ex: Casos de Uso, Estados).
+
+Diagramas de Interação (ex: Sequência, Comunicação).
+
+5. 8 Design Patterns do Vídeo 3 (com Propriedades)
+Padrão	Propriedades
+Singleton	Garante uma única instância de uma classe e acesso global.
+Strategy	Permite trocar algoritmos em tempo de execução (via interfaces).
+Factory Method	Delega a criação de objetos para subclasses.
+Abstract Factory	Cria famílias de objetos relacionados sem especificar classes concretas.
+Decorator	Adiciona responsabilidades dinamicamente a objetos (wrapper).
+Observer	Notifica mudanças de estado de um objeto para dependentes (eventos).
+Adapter		Converte a interface de uma classe em outra interface esperada pelo cliente.
+Facade		Simplifica a interface de um subsistema complexo.
+
+Exemplos de como o Design Pattern
+
+Organização do Sistema com Factories: O uso de Factories permitiu modularizar o sistema, criando componentes independentes para banco de dados, servidor web e núcleo do sistema. Isso melhorou a organização, facilitando a manutenção e reutilização do código.
+
+Tratamento de Erros Global: Encapsular todo o sistema dentro do core.js possibilitou capturar erros de forma centralizada usando um try/catch, garantindo que falhas inesperadas fossem tratadas sem comprometer a execução do restante do programa.
+
+Testes Unitários e o Problema da Dependência: A Injeção de Dependência resolveu o problema de importações diretas, permitindo substituir dependências reais por versões simuladas (mocks) nos testes, tornando-os mais rápidos, isolados e confiáveis.
+
+Criação de Objetos com Factory Functions: O vídeo apresenta uma Factory Function chamada fabricarPessoa(nome, sobrenome), que encapsula a lógica de criação de objetos, garantindo uma estrutura padronizada e evitando repetição de código. Esse padrão permite ocultar detalhes internos do objeto, tornando o código mais organizado e reutilizável.
+
+Cep Promise – Biblioteca Open Source: A biblioteca Cep Promise usa o padrão Factory para buscar informações de endereço a partir de um CEP, consultando múltiplos serviços simultaneamente e retornando o mais rápido. A modularidade desse design permite validações, chamadas de API e retornos de dados organizados, facilitando a manutenção e escalabilidade da aplicação.
