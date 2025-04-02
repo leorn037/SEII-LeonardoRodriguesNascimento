@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "pRu2AXJX9ik=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Leonardo\\Downloads\\UFU\\SEII-AnaLuizaCoelhoCastelhone-main\\Semana 07\\Exercício 03\\Calculadora\\CalculadoraMAUI.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "A versão da plataforma não está presente para uma ou mais estruturas de destino, embora elas tenham uma plataforma especificada: net8.0-android, net8.0-ios, net8.0-maccatalyst"
+    }
+  ]
+}

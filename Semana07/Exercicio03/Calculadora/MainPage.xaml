@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CalculadoraMAUI.MainPage"
+             Title="Calculadora">
+
+    <Grid RowDefinitions="Auto,*,*" 
+          ColumnDefinitions="*"
+          Padding="10"
+          RowSpacing="10"
+          ColumnSpacing="10">
+
+        <!-- Display -->
+        <Frame Grid.Row="0" 
+               CornerRadius="10"
+               BackgroundColor="{DynamicResource Secondary}"
+               Padding="15">
+            <Label x:Name="DisplayLabel" 
+                   Text="0"
+                   FontSize="36"
+                   HorizontalTextAlignment="End"
+                   VerticalTextAlignment="Center"/>
+        </Frame>
+
+        <!-- Teclado Numérico -->
+        <Grid Grid.Row="1" 
+              RowDefinitions="*,*,*,*"
+              ColumnDefinitions="*,*,*,*"
+              RowSpacing="10"
+              ColumnSpacing="10">
+
+            <!-- Linha 1 -->
+            <Button Grid.Row="0" Grid.Column="0" Text="7" Command="{Binding NumberCommand}" CommandParameter="7"/>
+            <Button Grid.Row="0" Grid.Column="1" Text="8" Command="{Binding NumberCommand}" CommandParameter="8"/>
+            <Button Grid.Row="0" Grid.Column="2" Text="9" Command="{Binding NumberCommand}" CommandParameter="9"/>
+            <Button Grid.Row="0" Grid.Column="3" Text="÷" Command="{Binding OperationCommand}" CommandParameter="/" BackgroundColor="{DynamicResource Tertiary}" TextColor="White"/>
+
+            <!-- Linha 2 -->
+            <Button Grid.Row="1" Grid.Column="0" Text="4" Command="{Binding NumberCommand}" CommandParameter="4"/>
+            <Button Grid.Row="1" Grid.Column="1" Text="5" Command="{Binding NumberCommand}" CommandParameter="5"/>
+            <Button Grid.Row="1" Grid.Column="2" Text="6" Command="{Binding NumberCommand}" CommandParameter="6"/>
+            <Button Grid.Row="1" Grid.Column="3" Text="×" Command="{Binding OperationCommand}" CommandParameter="*" BackgroundColor="{DynamicResource Tertiary}" TextColor="White"/>
+
+            <!-- Linha 3 -->
+            <Button Grid.Row="2" Grid.Column="0" Text="1" Command="{Binding NumberCommand}" CommandParameter="1"/>
+            <Button Grid.Row="2" Grid.Column="1" Text="2" Command="{Binding NumberCommand}" CommandParameter="2"/>
+            <Button Grid.Row="2" Grid.Column="2" Text="3" Command="{Binding NumberCommand}" CommandParameter="3"/>
+            <Button Grid.Row="2" Grid.Column="3" Text="-" Command="{Binding OperationCommand}" CommandParameter="-" BackgroundColor="{DynamicResource Tertiary}" TextColor="White"/>
+
+            <!-- Linha 4 -->
+            <Button Grid.Row="3" Grid.Column="0" Text="0" Command="{Binding NumberCommand}" CommandParameter="0"/>
+            <Button Grid.Row="3" Grid.Column="1" Text="C" Command="{Binding ClearCommand}" BackgroundColor="Red" TextColor="White"/>
+            <Button Grid.Row="3" Grid.Column="2" Text="=" Command="{Binding CalculateCommand}" BackgroundColor="Green" TextColor="White"/>
+            <Button Grid.Row="3" Grid.Column="3" Text="+" Command="{Binding OperationCommand}" CommandParameter="+" BackgroundColor="{DynamicResource Tertiary}" TextColor="White"/>
+        </Grid>
+    </Grid>
+</ContentPage>

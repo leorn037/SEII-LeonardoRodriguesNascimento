@@ -1,0 +1,12 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            x:Class="Maui.App"
+            Title="Questao1"/>
+<VerticalStackLayout>
+    <Label
+        x:Name="LBLTeste"
+        Text="Welcome to"
+        VerticalOptions="Center"
+        HorizontalOptions="Center"/>
+</VerticalStackLayout>
+</ContetPage>

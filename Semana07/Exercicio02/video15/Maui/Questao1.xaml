@@ -1,0 +1,64 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            x:Class="Maui.App"
+            Title="Questao1"/>
+<VerticalStackLayout>
+    <Label
+        x:Name="LBLPergunta"
+        Text="Qual é a cor do céu?"
+        VerticalOptions="Center"
+        HorizontalOptions="Center"
+        Textcolor="Black"
+        FrontAttributes="Bold"
+        Padding="10"/>
+    <Border>
+        <VerticalStackLayout Margin ="20">
+    <RadioButton
+    Content="Vermelho"
+    TextColor="Black"
+    Value="errado"
+    FrontAttributes="Italic"/>
+
+    </RadioButton>
+    <RadioButton
+     Content="Azul"
+    TextColor="Black"
+    Value="errado"
+     FrontAttributes="Italic"/>
+
+    
+
+    </RadioButton>
+    <RadioButton
+    Content="Amarelo"
+    TextColor="Black"
+    Value="errado"
+    FrontAttributes="Italic"/>
+
+    
+
+    </RadioButton>
+    <RadioButton
+     Content="Preto"
+    TextColor="Black"
+    Value="errado"
+    FrontAttributes="Italic"/>
+
+    
+
+    </RadioButton>
+    <RadioButton
+     Content="Outra"
+     TextColor="Black"
+     Value="certo"
+     FrontAttributes="Italic"/>
+     
+
+    
+
+    </RadioButton>
+    <Button x:Name="BTNVerificar"
+        text="Verificar resposta"/>
+         </Border>
+</VerticalStackLayout>
+</ContetPage>
